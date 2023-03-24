@@ -12,12 +12,18 @@
   <img align="center" alt="cris-git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" alt="cris-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 </div>
-  
+
   ##
  
 <div> 
   <a href="https://www.instagram.com/cristhianbiten/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:cristhianthiagok@yahoo.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/cristhian-bitencourt-588b3317a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href="https://www.linkedin.com/in/cristhian-bitencourt-588b3317a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
+
+#
+
+<div>
+  <a href="https://github.com/cristhianbiten"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristhianbiten&langs_count=10&layout=compact&theme=merko&border_radius=25&locale=pt-br" alt="cristhianbiten Languages" height="180em"  /></a>
+  <a href="https://github.com/cristhianbiten"><img src="https://github-readme-stats.vercel.app/api?username=cristhianbiten&show_icons=true&theme=merko&border_radius=25&locale=pt-br" alt="cristhiabiten Stats" height="180em" /></a>
 </div>
