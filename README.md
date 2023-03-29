@@ -25,5 +25,4 @@
 
 <div>
   <a href="https://github.com/cristhianbiten"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristhianbiten&langs_count=10&layout=compact&theme=merko&border_radius=25&locale=pt-br" alt="cristhianbiten Languages" height="180em"  /></a>
-  <a href="https://github.com/cristhianbiten"><img src="https://github-readme-stats.vercel.app/api?username=cristhianbiten&show_icons=true&theme=merko&border_radius=25&locale=pt-br" alt="cristhiabiten Stats" height="180em" /></a>
 </div>
