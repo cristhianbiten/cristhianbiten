@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Cristhian Bitencourt
 
 - 🔭 Hoje trabalho com análise de sistemas
-- 🌱 Estou estudando Java e Spring Boot
+- 🌱 Estou estudando Java e Spring Framework
 
 <div style="display: inline_block"><br>
   <img align="center" alt="cris-Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
