@@ -23,9 +23,9 @@
 
  ##
 
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=cristhianbiten&theme=dracula&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />            
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=cristhianbiten&theme=dracula&hide_border=false&include_all_commits=true&count_private=true"  width="364px" />            
 
-![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=cristhianbiten&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=cristhianbiten&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 #
