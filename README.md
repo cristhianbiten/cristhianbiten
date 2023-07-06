@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Cristhian Bitencourt
 
-- 🔭 Hoje trabalho com análise de sistemas.
+- 🔭 Hoje trabalho como desenvolvedor SAP ABAP.
 - 🌱 Estou estudando Java, Javascript e SQL.
 
 <div style="display: inline_block"><br>
