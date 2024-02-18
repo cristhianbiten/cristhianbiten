@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Cristhian Bitencourt
 
 - 🔭 Hoje trabalho como Desenvolvedor SAP ABAP.
-- 🌱 Estou estudando Java, Javascript e SQL.
+- 🌱 Estou estudando CDS View, Fiori Elements e Javascript.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="cris-Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
