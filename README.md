@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Cristhian Bitencourt
 
 - 🔭 Hoje trabalho como Desenvolvedor SAP ABAP.
-- 🌱 Estou estudando SAP Fiori, UI5 e CDS Views.
+- 🌱 Estou estudando SAP Fiori, UI5, CDS Views e ABAP RAP.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="cris-Javascript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
